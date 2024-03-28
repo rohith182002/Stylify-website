@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stylify-website/static/css/main.4858473f.css",
+    "main.js": "/Stylify-website/static/js/main.a7968350.js",
+    "static/js/453.1fc970f3.chunk.js": "/Stylify-website/static/js/453.1fc970f3.chunk.js",
+    "static/media/heroImg.jpg": "/Stylify-website/static/media/heroImg.c62d90d02b8d3e69e8d4.jpg",
+    "index.html": "/Stylify-website/index.html",
+    "main.4858473f.css.map": "/Stylify-website/static/css/main.4858473f.css.map",
+    "main.a7968350.js.map": "/Stylify-website/static/js/main.a7968350.js.map",
+    "453.1fc970f3.chunk.js.map": "/Stylify-website/static/js/453.1fc970f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4858473f.css",
+    "static/js/main.a7968350.js"
+  ]
+}
